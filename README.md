@@ -21,3 +21,11 @@ For analyzing the real protein data, run “dealing_Protein_data” for the ICOD
 ### Normal_mode_analysis_for_PDZ_elastic_network_model
 
 The folder gives our code for analyzing the open-to-close conformational change of an elastic network model for PDZ domain, and compute the single-point mutation effect associated with this conformational change.  
+
+### My_Common_Function
+
+Some setting for plotting figures and computing principle components etc. 
+
+### startup
+
+A script to add all relevant files in the searching path
